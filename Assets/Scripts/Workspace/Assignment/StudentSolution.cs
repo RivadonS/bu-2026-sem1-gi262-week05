@@ -22,7 +22,6 @@ namespace Assignment
                     {
                         minIndex = j;
                     }
-                    
                 }
                 /*int temp = numbers[minIndex];
                 numbers[minIndex] = numbers[i];
